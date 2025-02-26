@@ -16,14 +16,6 @@ The data is gotten from Kaggle [download here](https://www.kaggle.com/datasets/o
 
 ## Tech Stack
 Excel 
+## Dashboard
 
-## Key Findings
-A higher percentage of the 2,000 confirmed heart disease patients are female.
-Diabetes is a stronger independent risk factor for heart disease than smoking.
-Diabetic non-smokers have a higher risk of heart disease than smokers without diabetes.
-Diabetic smokers face the highest risk, with 490 confirmed cases in the dataset.
-
-##How to Use
-Download or clone the repository.
-Open the dashboard using Excel.
-Explore the interactive charts and insights.
+![heart disease new](https://github.com/user-attachments/assets/a4fd5de1-32c0-469b-b71a-92e33bcf7244)
