@@ -15,7 +15,7 @@ The dataset used in this analysis is a sample and should not be used for future 
 The data is gotten from Kaggle [download here](https://www.kaggle.com/datasets/oktayrdeki/heart-disease)
 
 ## Tech Stack
-Excel (Specify which tool you used)
+Excel 
 
 ## Key Findings
 A higher percentage of the 2,000 confirmed heart disease patients are female.
