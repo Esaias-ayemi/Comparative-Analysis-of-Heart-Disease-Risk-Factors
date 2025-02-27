@@ -20,8 +20,7 @@ Excel
 
 ![heart disease new](https://github.com/user-attachments/assets/a4fd5de1-32c0-469b-b71a-92e33bcf7244)
 
-##Table
-HEART DISEASE DATASET																					
+## Table																				
 | Age |	Age Interval	| Gender	| Blood | Pressure	| Cholesterol Level	| Exercise Habits	| Smoking	| Family Heart Disease	| Diabetes	| BMI	| High Blood Pressure	| Low HDL Cholesterol	| High LDL Cholesterol	| Alcohol Consumption	| Stress Level	| Sleep Hours	| Sugar Consumption	| Triglyceride Level	| Fasting  Blood Sugar	| CRP Level	| Homocysteine Level	| Heart Disease Status |
 |----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
 | 56	| 55-64	| Male	| 153	| 155	| High	| Yes	| Yes	| No	| 24.99159109	| Yes	| Yes	| No	| High	| Medium	| 7.63322838	| Medium	| 342		| 12.96924569	| 12.3872504	| No |
